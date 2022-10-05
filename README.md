@@ -3,9 +3,7 @@
 A random password generator website built with Node.js and Express. It allows the users to create random passwords of their choice.
 
 ![image](https://user-images.githubusercontent.com/107028314/194013389-985ae88b-3722-4960-bcc4-75a82a8b352c.png)
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/107028314/193062071-3cd3470f-551c-403f-ad93-5386815a0151.png">
 ![image](https://user-images.githubusercontent.com/107028314/194013512-027619c7-abb5-43a8-a22d-f601ef1b2d23.png)
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/107028314/193062071-3cd3470f-551c-403f-ad93-5386815a0151.png">
 
 ## Features
 * Users can choose the characters they want to include in their password
